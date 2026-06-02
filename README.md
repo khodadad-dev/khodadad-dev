@@ -30,9 +30,9 @@ I'm a frontend developer at the beginning of my journey, passionate about buildi
 
 ## 🌐 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email: [khodadadr18@gmail.com](khodadadr18@gmail.com)
 
-🐙 GitHub: https://github.com/yourusername
+🐙 GitHub: https://github.com/khodadad-dev
 
 💼 Portfolio: Coming Soon...
 
