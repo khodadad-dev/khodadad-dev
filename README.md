@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Khodadad Rezaei 👋
 
-<!--
-**khodadad-dev/khodadad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer in Progress | 🚀 Learning React & Next.js
 
-Here are some ideas to get you started:
+I'm a frontend developer at the beginning of my journey, passionate about building modern and responsive web applications. I enjoy learning new technologies, improving my coding skills, and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning and improving my skills in Frontend Development
+* ⚛️ Working with React, Next.js, and TypeScript
+* 🎨 Interested in creating clean and responsive user interfaces
+* 📚 Always exploring new technologies and best practices
+* 🛠️ Building projects to gain hands-on experience and grow as a developer
+
+## 🛠️ Technologies I'm Learning
+
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Tailwind CSS
+* Git & GitHub
+
+## 🎯 Current Goals
+
+* Build more real-world projects
+* Improve problem-solving skills
+* Learn advanced React and Next.js concepts
+* Contribute to open-source projects
+
+## 🌐 Connect With Me
+
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+
+🐙 GitHub: https://github.com/yourusername
+
+💼 Portfolio: Coming Soon...
+
