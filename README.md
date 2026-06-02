@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khodadad-dev/khodadad-dev/main/banner.png" width="100%">
+</p>
+
 # Hi, I'm Khodadad Rezaei 👋
 
 💻 Frontend Developer in Progress | 🚀 Learning React & Next.js
